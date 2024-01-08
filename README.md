@@ -12,3 +12,8 @@ For The Market
 
  It intentional executes slowly to not hit their rate limiting.
  Valid, current dated codes will be flagged as "VALID!" in the output.
+
+For Dominos
+ - run python dominos.py
+
+it should produce output in table markdown format.
