@@ -1,50 +1,50 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 
 def get_html(url):
-    request_headers = {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }    
-    response = requests.get(url, headers=request_headers)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    response = requests.get(url, headers=headers)
     response.raise_for_status()
     return response.text
 
 def extract_links(soup, selector):
     return [link.get('href') for link in soup.select(selector)]
 
+def print_voucher_info(storename, title, price, method, code, storeurl, suburbprinted):
+    if suburbprinted:
+        print(f"||{title}|{price}|{method}|{code}|")
+    else:
+        print(f"|[{storename}]({storeurl})|{title}|{price}|{method}|{code}|")
+
 base_url = 'https://www.dominos.co.nz'
-
-main_page_html = get_html(base_url + '/stores/south-island')
-
+main_page_html = get_html(f'{base_url}/stores/south-island')
 soup_main = BeautifulSoup(main_page_html, 'html.parser')
 
-area_links = extract_links(soup_main, 'div.store-information a[href]')
-area_links = list(dict.fromkeys(area_links))
-area_links.sort()
-print("Area links for " + str(len(area_links)) + " stores :" + str(area_links)) 
-print("|Store|Deal|Price from*|Method|Code|\n|-|")    
+area_links = sorted(set(extract_links(soup_main, 'div.store-information a[href]')))
+print(f"Area links for {len(area_links)} stores: {area_links}")
+print("|Store|Deal|Price from*|Method|Code|\n|-|")
 
 for area_link in area_links:
-    suburbprinted=False
-    split_string = area_link.split('/')
-    extracted_text = '/'.join(split_string[2:])
-    storeurl = (base_url + "/coupon-voucher/" + extracted_text)
-    area_html = get_html(storeurl)
+    suburbprinted = False
+    storeurl = f"{base_url}/coupon-voucher/{'/'.join(area_link.split('/')[2:])}"
+    store_html = get_html(storeurl)
+    store_soup = BeautifulSoup(store_html, 'html.parser')
 
-    store = BeautifulSoup(area_html, 'html.parser')
+    storename = store_soup.select_one('span.store-name')
+    if storename:
+        storename = storename.text.title()
+        vouchers = zip(store_soup.select('div.offer-ribbon-anz'),
+                       store_soup.select('div.offer-code-anz'),
+                       store_soup.select('p.service-method-anz'))
 
-    storename = store.select('span.store-name')
-    if len(storename) != 0:
-        voucher_titles = store.select('div.offer-ribbon-anz')
-        voucher_codes = store.select('div.offer-code-anz')
-        voucher_method = store.select('p.service-method-anz')
-        if len(voucher_titles) == 0:
-            print("|[" + storename[0].text.title() + "](" + storeurl + ")")
-        else:
-            for t,c,m in zip(voucher_titles, voucher_codes, voucher_method):
-                if suburbprinted:
-                    print("||" + t.text.strip().split('from')[0].strip() + "|" + t.text.strip().split('from')[1].replace("*", "").split(";",1)[0].strip() + "|" + m.text.strip().replace("Only", "").strip() + "|" + c.text.strip().replace("Offer Code: ", "").strip() + "|")
-                else:
-                    print("|[" + storename[0].text.title() + "](" + storeurl + ")|" + t.text.strip().split('from')[0].strip() + "|" + t.text.strip().split('from')[1].replace("*", "").split(";",1)[0].strip() + "|" + m.text.strip().replace("Only", "").strip() + "|" + c.text.strip().replace("Offer Code: ", "").strip() + "|")
-                    suburbprinted = True
+        for voucher_title, voucher_code, voucher_method in vouchers:
+            title, price = map(str.strip, voucher_title.text.strip().split('from'))
+            price = price.replace("*", "").split(";", 1)[0].strip()
+            method = voucher_method.text.strip().replace("Only", "").strip()
+            code = voucher_code.text.strip().replace("Offer Code: ", "").strip()
+            print_voucher_info(storename, title, price, method, code, storeurl, suburbprinted)
+            suburbprinted = True
+    else:
+        print(f"|[{storename}]({storeurl})|No vouchers available|||")
