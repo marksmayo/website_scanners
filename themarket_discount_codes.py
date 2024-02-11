@@ -98,6 +98,7 @@ codes = [
     "JUBILEE10",
     "JULCLUB",
     "JUNCLUB",
+    "KING10",
     "KIWI5",
     "KIWI10",
     "LUCKY13",
