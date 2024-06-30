@@ -1,34 +1,28 @@
 import json
 
-# Load data from foo.txt
-with open('products.json', 'r') as file:
-    data = file.read()
+# Load the JSON data
+with open('products.json') as f:
+    products = json.load(f)
 
-# Ensure data is parsed as JSON
-try:
-    products = json.loads(data)
-except json.JSONDecodeError:
-    print("Error: Failed to parse JSON data.")
-    exit(1)
+# Function to sort products by price
+def sort_products_by_price(products):
+    # Extract numeric value from price and sort
+    return sorted(products, key=lambda x: float(x['price'].replace('$', '')))
 
-# Check if the data is a list
-if not isinstance(products, list):
-    print("Error: JSON data is not a list of products.")
-    exit(1)
+# Function to generate markdown table
+def generate_markdown_table(products):
+    markdown = "| Name | URL | Price |\n"
+    markdown += "|------|-----|-------|\n"
+    for product in products:
+        name = product['name']
+        url = product['url']
+        price = product['price']
+        markdown += f"| [{name}]({url}) | [Link]({url}) | {price} |\n"
+    return markdown
 
-# Sort the products by price in ascending order
-try:
-    sorted_products = sorted(products, key=lambda x: float(x['price']))
-except (TypeError, KeyError) as e:
-    print(f"Error: Failed to sort products - {e}")
-    exit(1)
+# Sort the products by price
+sorted_products = sort_products_by_price(products)
 
-# Generate markdown table
-markdown = "| Product Name | URL | Price |\n"
-markdown += "|--------------|-----|-------|\n"
-
-for product in sorted_products:
-    markdown += f"| {product['name']} | [link](https://www.kmart.co.nz/product/{product['url']}) | ${product['price']:.2f} |\n"
-
-# Print the markdown code
-print(markdown)
+# Generate and print the markdown table
+markdown_table = generate_markdown_table(sorted_products)
+print(markdown_table)
