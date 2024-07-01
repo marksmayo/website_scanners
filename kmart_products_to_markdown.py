@@ -11,13 +11,13 @@ def sort_products_by_price(products):
 
 # Function to generate markdown table
 def generate_markdown_table(products):
-    markdown = "| Name | URL | Price |\n"
-    markdown += "|------|-----|-------|\n"
+    markdown = "| Name | Price |\n"
+    markdown += "|------|-------|\n"
     for product in products:
         name = product['name']
         url = product['url']
         price = product['price']
-        markdown += f"| [{name}]({url}) | [Link]({url}) | {price} |\n"
+        markdown += f"| [{name}]({url}) | {price} |\n"
     return markdown
 
 # Sort the products by price
