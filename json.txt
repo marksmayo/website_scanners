@@ -1,0 +1,125 @@
+| Brand | Product Name| Units | Sale Price | Old Price | Discount|
+|--------------|--------------|-------|------------|---------------|---|
+| Sorbent | [Silky White Long Roll 3 Ply Toilet Rolls](https://www.newworld.co.nz/shop/product/5016281-EA-000) | sheets | $3.99 | $6.75 | 40.9%|
+|  | [Telegraph Cucumber](https://www.newworld.co.nz/shop/product/5028889-EA-000) | ea | $2.49 | $3.99 | 37.6%|
+| Eta | [Lite & Free Honey Mustard Dressing](https://www.newworld.co.nz/shop/product/5011743-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Balsamic Vinaigrette](https://www.newworld.co.nz/shop/product/5025539-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Ranch Dressing](https://www.newworld.co.nz/shop/product/5010207-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Lite & Free French Dressing](https://www.newworld.co.nz/shop/product/5001898-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Lite & Free Balsamic Vinaigrette](https://www.newworld.co.nz/shop/product/5013593-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Thousand Island Dressing](https://www.newworld.co.nz/shop/product/5010208-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Lite & Free Italian Dressing](https://www.newworld.co.nz/shop/product/5001897-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Avocado & Garlic Dressing](https://www.newworld.co.nz/shop/product/5010205-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Eta | [Caramelised Onion Dressing](https://www.newworld.co.nz/shop/product/5017781-EA-000) | ml | $2.49 | $3.79 | 34.3%|
+| Bundaberg | [Blood Orange Sparkling Drink Mini Cans](https://www.newworld.co.nz/shop/product/5310715-EA-000) | L | $4.99 | $7.39 | 32.5%|
+| Bundaberg | [Ginger Beer Mini Cans](https://www.newworld.co.nz/shop/product/5258354-EA-000) | L | $4.99 | $7.39 | 32.5%|
+| Bundaberg | [Passionfruit Sparkling Drink Mini Cans](https://www.newworld.co.nz/shop/product/5289812-EA-000) | L | $4.99 | $7.39 | 32.5%|
+| Bundaberg | [Lemon Lime & Bitters Mini Cans](https://www.newworld.co.nz/shop/product/5289811-EA-000) | L | $4.99 | $7.39 | 32.5%|
+| Bundaberg | [Pink Grapefruit Sparkling Drink Mini Cans](https://www.newworld.co.nz/shop/product/5289734-EA-000) | L | $4.99 | $7.39 | 32.5%|
+| Hellers | [Sliced Smoked Garlic & Paprika Salami](https://www.newworld.co.nz/shop/product/5323172-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Shaved Champagne Leg Ham](https://www.newworld.co.nz/shop/product/5039342-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Shaved Manuka Smoked Ham](https://www.newworld.co.nz/shop/product/5039343-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Shaved Honey Baked Ham](https://www.newworld.co.nz/shop/product/5015077-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Sliced Pepperoni Salami](https://www.newworld.co.nz/shop/product/5039340-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Sliced Pizza Salami](https://www.newworld.co.nz/shop/product/5015076-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Hellers | [Sliced Danish Salami](https://www.newworld.co.nz/shop/product/5039341-EA-000) | kg | $2.99 | $4.39 | 31.9%|
+| Arnott's | [Butternut Snap Cookie Biscuits](https://www.newworld.co.nz/shop/product/5319392-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [The Original Choc Ripple Biscuits](https://www.newworld.co.nz/shop/product/5319391-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [Ginger Nut Biscuits](https://www.newworld.co.nz/shop/product/5005169-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [Scotch Finger Biscuits](https://www.newworld.co.nz/shop/product/5002448-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [Nice Biscuits](https://www.newworld.co.nz/shop/product/5001534-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [Milk Arrowroot Biscuits](https://www.newworld.co.nz/shop/product/5003075-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| Arnott's | [Malt 'O' Milk Biscuits](https://www.newworld.co.nz/shop/product/5001666-EA-000) | g | $2.49 | $3.49 | 28.7%|
+| McCain | [Superfries Shoestring Chips](https://www.newworld.co.nz/shop/product/5262674-EA-000) | kg | $3.79 | $4.99 | 24.0%|
+| McCain | [Superfries Crinkle Cut Chips](https://www.newworld.co.nz/shop/product/5262675-EA-000) | kg | $3.79 | $4.99 | 24.0%|
+| McCain | [Superfries Straight Cut Chips](https://www.newworld.co.nz/shop/product/5262678-EA-000) | kg | $3.79 | $4.99 | 24.0%|
+| McCain | [Superfries Steak Cut Chips](https://www.newworld.co.nz/shop/product/5262676-EA-000) | kg | $3.79 | $4.99 | 24.0%|
+| Galaxy | [Creamy Classic Camembert Cheese](https://www.newworld.co.nz/shop/product/5004347-EA-000) | g | $3.99 | $5.19 | 23.1%|
+| Galaxy | [Mild & Creamy Brie Cheese](https://www.newworld.co.nz/shop/product/5004346-EA-000) | g | $3.99 | $5.19 | 23.1%|
+| McCoy | [Pink Lady Apple Premium Fruit Juice](https://www.newworld.co.nz/shop/product/5082056-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Pomegranate Premium Fruit Drink](https://www.newworld.co.nz/shop/product/5082057-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Tomato Premium Juice](https://www.newworld.co.nz/shop/product/5001437-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Cranberry Premium Fruit Juice](https://www.newworld.co.nz/shop/product/5001439-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Pineapple Fruit Juice](https://www.newworld.co.nz/shop/product/5001435-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Orange Premium Fruit Juice](https://www.newworld.co.nz/shop/product/5002511-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Dark Grape Fruit Juice](https://www.newworld.co.nz/shop/product/5001434-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| McCoy | [Ruby Red Grapefruit Fruit Juice](https://www.newworld.co.nz/shop/product/5001438-EA-000) | L | $2.99 | $3.69 | 19.0%|
+| Huntley & Palmers | [Sprouted Rye Pumpkin Seeds & Sea Salt Cracker Bread](https://www.newworld.co.nz/shop/product/5234036-EA-000) | g | $4.79 | $5.35 | 10.5%|
+| Huntley & Palmers | [Sprouted Oat Sunflower Seeds & Rosemary Cracker Bread](https://www.newworld.co.nz/shop/product/5234035-EA-000) | g | $4.79 | $5.35 | 10.5%|
+| Huntley & Palmers | [Tasty Cheddar Crispbread](https://www.newworld.co.nz/shop/product/5308494-EA-000) | g | $4.79 | $5.35 | 10.5%|
+| Huntley & Palmers | [Tasty Cheddar & Chive Crispbread](https://www.newworld.co.nz/shop/product/5308496-EA-000) | g | $4.79 | $5.35 | 10.5%|
+| Golden | [Crumpet Squares](https://www.newworld.co.nz/shop/product/5025330-EA-000) | g | $3.79 | $3.99 | 5.0%|
+|  | [Plain French Stick](https://www.newworld.co.nz/shop/product/5132395-EA-000) | ea | $3.49 | $3.49 | 0.0%|
+| OGX | [Brazilian Keratin Therapay Conditioner](https://www.newworld.co.nz/shop/product/5038086-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| OGX | [Renewing Argan Oil Shampoo](https://www.newworld.co.nz/shop/product/5038087-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| OGX | [Argan Oil Of Morocco Conditioner](https://www.newworld.co.nz/shop/product/5037832-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| OGX | [Nourishing Coconut Milk Shampoo](https://www.newworld.co.nz/shop/product/5037051-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| OGX | [Nourishing Coconut Milk Conditioner](https://www.newworld.co.nz/shop/product/5038085-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| OGX | [Thick & Full + Biotin & Collagen Conditioner](https://www.newworld.co.nz/shop/product/5237344-EA-000) | ml | $9.99 | $20.59 | 51.5%|
+| Cadbury | [Roses Chocolates](https://www.newworld.co.nz/shop/product/5003378-EA-000) | g | $5.79 | $9.99 | 42.0%|
+| Cadbury Favourites | [Chocolates](https://www.newworld.co.nz/shop/product/5030912-EA-000) | g | $5.79 | $9.99 | 42.0%|
+| Blue Royal | [Blueberries Premium Fruit](https://www.newworld.co.nz/shop/product/5295456-EA-000) | kg | $5.99 | $9.99 | 40.0%|
+| Nescafe | [Cappuccino Decaf Coffee Sachets](https://www.newworld.co.nz/shop/product/5288960-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Cappuccino Strong Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233866-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Flat White Coffee Sachets](https://www.newworld.co.nz/shop/product/5288608-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Caramel Latte Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233865-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Vanilla Latte Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233870-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Hazelnut Latte Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233868-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Cappuccino Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233867-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Nescafe | [Mocha Coffee Sachets Value Pack](https://www.newworld.co.nz/shop/product/5233869-EA-000) | ea | $9.49 | $15.69 | 39.5%|
+| Lindt | [Blood Orange Chocolate Pouch](https://www.newworld.co.nz/shop/product/5316246-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor White Assorted Chocolates Pouch](https://www.newworld.co.nz/shop/product/5313975-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Irish Cream Pouch Bag](https://www.newworld.co.nz/shop/product/5325948-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Dark Assorted Chocolates Pouch](https://www.newworld.co.nz/shop/product/5304209-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Double Chocolate Chocolates Pouch](https://www.newworld.co.nz/shop/product/5281654-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor White Chocolates Pouch](https://www.newworld.co.nz/shop/product/5020058-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Milk Mint Chocolates Pouch](https://www.newworld.co.nz/shop/product/5254715-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Salted Caramel Milk Chocolates](https://www.newworld.co.nz/shop/product/5295584-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Strawberry & Cream Chocolates Pouch](https://www.newworld.co.nz/shop/product/5024873-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor 70% Cocoa Chocolates Pouch](https://www.newworld.co.nz/shop/product/5228470-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Cheesecake Milk Chocolates Pouch](https://www.newworld.co.nz/shop/product/5323374-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Assorted Chocolates Pouch](https://www.newworld.co.nz/shop/product/5017527-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Lindt | [Lindor Milk Chocolates Pouch](https://www.newworld.co.nz/shop/product/5017526-EA-000) | g | $6.99 | $8.99 | 22.2%|
+| Rebel Bakehouse | [Low Carb Everything Soft Wraps](https://www.newworld.co.nz/shop/product/5288684-EA-000) | g | $5.49 | $6.65 | 17.4%|
+| Rebel Bakehouse | [Spinach Prebiotic Soft Wraps](https://www.newworld.co.nz/shop/product/5288681-EA-000) | g | $5.49 | $6.65 | 17.4%|
+| Rebel | [Capsicum & Roasted Garlic Wraps](https://www.newworld.co.nz/shop/product/5317713-EA-000) | g | $5.49 | $6.65 | 17.4%|
+| Meadow Fresh | [Quick Brekkie Vanilla Flavour UHT Milk](https://www.newworld.co.nz/shop/product/5327246-EA-000) | L | $9.49 | $11.49 | 17.4%|
+| Meadow Fresh | [Quick Brekkie Chocolate Flavour UHT Milk](https://www.newworld.co.nz/shop/product/5327245-EA-000) | L | $9.49 | $11.49 | 17.4%|
+| Meadow Fresh | [Quick Brekkie Strawberry Flavour UHT Milk](https://www.newworld.co.nz/shop/product/5327244-EA-000) | L | $9.49 | $11.49 | 17.4%|
+| Hellers | [Manuka Smoked Streaky Bacon](https://www.newworld.co.nz/shop/product/5203294-EA-000) | kg | $6.79 | $8.15 | 16.7%|
+| Hellers | [Ol' Smokey Streaky Bacon](https://www.newworld.co.nz/shop/product/5032840-EA-000) | kg | $6.79 | $8.15 | 16.7%|
+| Hellers | [Honey Cured Streaky Bacon](https://www.newworld.co.nz/shop/product/5032901-EA-000) | kg | $6.79 | $8.15 | 16.7%|
+| Hellers | [Craft Shredded Kentucky Chicken](https://www.newworld.co.nz/shop/product/5325395-EA-000) | kg | $8.99 | $10.69 | 15.9%|
+| Hellers | [Craft Shredded Roast Chicken](https://www.newworld.co.nz/shop/product/5268128-EA-000) | kg | $8.99 | $10.69 | 15.9%|
+| Hellers | [Craft Sliced Roast Chicken](https://www.newworld.co.nz/shop/product/5268138-EA-000) | kg | $8.99 | $10.69 | 15.9%|
+| Hellers | [Sliced Tandoori Chicken](https://www.newworld.co.nz/shop/product/5282254-EA-000) | kg | $8.99 | $10.69 | 15.9%|
+| Grove | [Extra Virgin Avocado Oil](https://www.newworld.co.nz/shop/product/5002029-EA-000) | ml | $12.99 | $14.55 | 10.7%|
+|  | [BBQ Rice Crackers](https://www.newworld.co.nz/shop/product/5101184-KGM-000) | g | $14.90 | $14.90 | 0.0%|
+| Mud House | [Riesling](https://www.newworld.co.nz/shop/product/5000410-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [South Australian Shiraz](https://www.newworld.co.nz/shop/product/5314680-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [South Australian Cabernet Sauvignon](https://www.newworld.co.nz/shop/product/5314679-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [Chardonnay](https://www.newworld.co.nz/shop/product/5000088-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [Merlot](https://www.newworld.co.nz/shop/product/5000090-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Tegel | [Tenderbased Whole Turkey](https://www.newworld.co.nz/shop/product/5001906-EA-000) | kg | $52.99 | $74.55 | 28.9%|
+| Huggies | [Nappies Newborn For Boys & Girls Size 1 Up To 5kg](https://www.newworld.co.nz/shop/product/5028528-EA-000) | ea | $37.99 | $51.95 | 26.9%|
+| Huggies | [Ultra Dry Nappies For Boys Size 5 13-18kg](https://www.newworld.co.nz/shop/product/5094333-EA-000) | ea | $37.99 | $51.95 | 26.9%|
+| Huggies | [Ultra Dry Nappies For Boys Size 4 10-15kg](https://www.newworld.co.nz/shop/product/5094331-EA-000) | ea | $37.99 | $51.95 | 26.9%|
+| Huggies | [Ultra Dry Nappies For Girls Size 4 10-15kg](https://www.newworld.co.nz/shop/product/5094332-EA-000) | ea | $37.99 | $51.95 | 26.9%|
+| Huggies | [Ultra Dry Nappies For Girls Size 5 13-18kg](https://www.newworld.co.nz/shop/product/5094334-EA-000) | ea | $37.99 | $51.95 | 26.9%|
+| Diet Coca-Cola | [Soft Drink Cans](https://www.newworld.co.nz/shop/product/5218079-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| L&P | [Soft Drink Cans](https://www.newworld.co.nz/shop/product/5218074-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| Sprite | [Zero Sugar Natural Flavour Soft Drink Cans](https://www.newworld.co.nz/shop/product/5218080-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| Sprite | [Natural Flavour Soft Drink Cans](https://www.newworld.co.nz/shop/product/5218078-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| Coca-Cola | [Soft Drink Cans](https://www.newworld.co.nz/shop/product/5218066-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| Coca-Cola Zero | [Sugar Soft Drink Cans](https://www.newworld.co.nz/shop/product/5306540-EA-000) | L | $19.99 | $23.95 | 16.5%|
+| Mud House | [Marlborough Rose](https://www.newworld.co.nz/shop/product/5277618-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [Sauvignon Blanc](https://www.newworld.co.nz/shop/product/5000089-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| Mud House | [Pinot Gris](https://www.newworld.co.nz/shop/product/5004345-EA-000) |  | $14.99 | $14.99 | 0.0%|
+| De Bortoli | [King Valley Prosecco Sparkling](https://www.newworld.co.nz/shop/product/5228120-EA-000) |  | $15.99 | $15.99 | 0.0%|
+| Mud House | [Brut Cuvee](https://www.newworld.co.nz/shop/product/5319823-EA-000) |  | $16.99 | $16.99 | 0.0%|
+| Heineken | [Lager Beer Bottles](https://www.newworld.co.nz/shop/product/5000560-EA-000) |  | $23.99 | $23.99 | 0.0%|
+| Orchard Thieves | [Apple Cider Bottles](https://www.newworld.co.nz/shop/product/5039272-EA-000) |  | $24.99 | $24.99 | 0.0%|
+| Orchard Thieves | [Peach & Passionfruit Cider Bottles](https://www.newworld.co.nz/shop/product/5310439-EA-000) |  | $24.99 | $24.99 | 0.0%|
+|  | [Vitality](https://www.newworld.co.nz/shop/product/5104268-KGM-000) | g | $28.90 | $28.90 | 0.0%|
+| Speight's | [Summit Ultra Low Carb Lager Beer Bottles](https://www.newworld.co.nz/shop/product/5237762-EA-000) |  | $38.99 | $38.99 | 0.0%|
+| Mumm | [Cordon Rouge Champagne](https://www.newworld.co.nz/shop/product/5228163-EA-000) |  | $59.99 | $59.99 | 0.0%|
