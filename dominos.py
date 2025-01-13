@@ -24,7 +24,7 @@ soup_main = BeautifulSoup(main_page_html, 'html.parser')
 
 area_links = sorted(set(extract_links(soup_main, 'div.store-information a[href]')))
 print(f"Area links for {len(area_links)} stores: {area_links}")
-print("|Store|Deal|Price from*|Method|Code|\n|-|")
+print("|Store|Deal|Price from/for*|Method|Code|\n|-|")
 
 for area_link in area_links:
     suburbprinted = False
@@ -40,7 +40,10 @@ for area_link in area_links:
                        store_soup.select('p.service-method-anz'))
 
         for voucher_title, voucher_code, voucher_method in vouchers:
-            title, price = map(str.strip, voucher_title.text.strip().split('from'))
+            try:
+                title, price = map(str.strip, voucher_title.text.strip().split('from'))
+            except:
+                title, price = map(str.strip, voucher_title.text.strip().split('for'))
             price = price.replace("*", "").split(";", 1)[0].strip()
             method = voucher_method.text.strip().replace("Only", "").strip()
             code = voucher_code.text.strip().replace("Offer Code: ", "").strip()
