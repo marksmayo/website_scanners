@@ -17,3 +17,5 @@ For Dominos
  - run python dominos.py
 
 it should produce output in table markdown format.
+
+![Alt](https://repobeats.axiom.co/api/embed/af80bbd40975bd56142cdf3af029715f13ba19d6.svg "Repobeats analytics image")
